@@ -25,9 +25,9 @@ I really enjoy learning languages and frameworks for fast paced development, cur
     <td>📃<a href='https://github.com/alokjha2/profileUI'> Profile UI</td>
     <td>📚<a href='https://github.com/alokjha2/blogappui'> Blog App </td>
     <td>📰<a href='https://github.com/alokjha2/chatAppUi'> Chat App </td>
-    <td>📰<a href='https://github.com/alokjha2/chatAppUi'> Ecommerce App </td>
+    <!-- <td>📰<a href='https://github.com/alokjha2/chatAppUi'> Ecommerce App </td>
     <td>📰<a href='https://github.com/alokjha2/chatAppUi'> Plant MarketPlace </td>
-    <td>📰<a href='https://github.com/alokjha2/chatAppUi'> Skills App </td>
+    <td>📰<a href='https://github.com/alokjha2/chatAppUi'> Skills App </td> -->
     <!-- <td>💰<a href='https://github.com/khurramrizvi/flutter_pro_apps/tree/master/crypto_app'> Crypto App </td>
     <td>💭<a href='https://github.com/khurramrizvi/flutter_quote_app'> Quote App </td> -->
   </tr>
@@ -38,7 +38,7 @@ I really enjoy learning languages and frameworks for fast paced development, cur
    <td>
         <img src="https://github.com/khurramrizvi/BlogApp/blob/master/ss/Screenshot_blog_app_20190828-005417.png" height="250" >
     </td>
-    <td>
+    <!-- <td>
         <img src="https://github.com/khurramrizvi/designer_news/blob/master/ss/andro_ss1.png" height="250" >
     </td>
     <td>
@@ -47,6 +47,37 @@ I really enjoy learning languages and frameworks for fast paced development, cur
     <td>
         <img src="https://github.com/khurramrizvi/flutter_quote_app/blob/master/ss/ss.jpg" height="250" >
     </td>
+  </tr> -->
+
+
+  </table>
+<table>
+  <tr>
+    <td>📃<a href='https://github.com/alokjha2/profileUI'> Profile UI</td>
+    <td>📚<a href='https://github.com/alokjha2/blogappui'> Blog App </td>
+    <td>📰<a href='https://github.com/alokjha2/chatAppUi'> Chat App </td>
+    <!-- <td>📰<a href='https://github.com/alokjha2/chatAppUi'> Ecommerce App </td>
+    <td>📰<a href='https://github.com/alokjha2/chatAppUi'> Plant MarketPlace </td>
+    <td>📰<a href='https://github.com/alokjha2/chatAppUi'> Skills App </td> -->
+    <!-- <td>💰<a href='https://github.com/khurramrizvi/flutter_pro_apps/tree/master/crypto_app'> Crypto App </td>
+    <td>💭<a href='https://github.com/khurramrizvi/flutter_quote_app'> Quote App </td> -->
+  </tr>
+  <tr>
+    <td>
+        <img src="https://github.com/alokjha2/profileUI/blob/main/screenshots/screen_2.png" height="250">
+    </td>
+   <td>
+        <img src="https://github.com/khurramrizvi/BlogApp/blob/master/ss/Screenshot_blog_app_20190828-005417.png" height="250" >
+    </td>
+    <!-- <td>
+        <img src="https://github.com/khurramrizvi/designer_news/blob/master/ss/andro_ss1.png" height="250" >
+    </td>
+    <td>
+        <img src="https://github.com/khurramrizvi/flutter_pro_apps/blob/master/crypto_app/ss/crypto1.png" height="250" >
+    </td>
+    <td>
+        <img src="https://github.com/khurramrizvi/flutter_quote_app/blob/master/ss/ss.jpg" height="250" >
+    </td> -->
   </tr>
   </table>
   
