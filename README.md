@@ -75,7 +75,7 @@ I love building projects, my goal is to build 150 projects from different - diff
   </tr> 
   </table>
 
-  
+
  ### 
  <table>
   <tr> 
@@ -138,7 +138,6 @@ I love building projects, my goal is to build 150 projects from different - diff
  
  
 ## <a href='https://github.com/khurramrizvi?tab=repositories'>and many more....
-
-### You are AWESOME, just believe in YOURSELF 🔥🔥 
-
-![](https://komarev.com/ghpvc/?username=khurramrizvi&color=blueviolet&style=flat-square)
+ 
+![](https://komarev.com/ghpvc/?username=alokjha2)
+<!-- ![](https://komarev.com/ghpvc/?username=khurramrizvi&color=blueviolet&style=flat-square) -->
