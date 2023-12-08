@@ -20,21 +20,15 @@ I love building projects, my goal is to build 150 projects from different - diff
 
 ## Live Projects 
 
-<h3>🌱 List of projects</h3>
+<h3>🌱 Android Apps</h3>
 
 - #### [Better You](https://play.google.com/store/apps/details?id=com.betteryou.app)
 
 - #### [Shia Books](https://play.google.com/store/apps/details?id=com.gigls.audiobook)
 
-<!-- - #### [Flutter RealTime Chat App](https://youtu.be/QEDhmxzEqUA)
+- #### [Chirkut](https://play.google.com/store/apps/details?id=com.social.chillx)
 
-- #### [Flutter E-Commerce App Clone](https://youtu.be/nxZa9D8_wrc)
-
-- #### [AI Ludo Game Made In Python Tkinter](https://youtu.be/5NScX6qgd3Y) -->
-
-
-<!-- [linkedin]: https://www.linkedin.com/in/samarpan-dasgupta-4aa1061b0/ -->
-[linkedin]: https://www.linkedin.com/in/peckishhuman/
+![linkedin]: https://www.linkedin.com/in/peckishhuman/
 
 ## UI
 <table>
