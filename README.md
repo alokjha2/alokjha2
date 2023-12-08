@@ -41,17 +41,11 @@ I love building projects, my goal is to build 150 projects from different - diff
   </tr> 
   <tr>
 
-<!-- ## Some more UIs -->
 <table>
   <tr>
     <td>📃<a href='https://github.com/alokjha2/skillsApp'> Skills App</td>
     <td>📚<a href='https://github.com/alokjha2/PlantUi'> Plant App </td>
     <td>📰<a href='https://github.com/alokjha2/chatAppUi'> Chat App </td>
-    <!-- <td>📰<a href='https://github.com/alokjha2/chatAppUi'> Ecommerce App </td>
-    <td>📰<a href='https://github.com/alokjha2/chatAppUi'> Plant MarketPlace </td>
-    <td>📰<a href='https://github.com/alokjha2/chatAppUi'> Skills App </td> -->
-    <!-- <td>💰<a href='https://github.com/khurramrizvi/flutter_pro_apps/tree/master/crypto_app'> Crypto App </td>
-    <td>💭<a href='https://github.com/khurramrizvi/flutter_quote_app'> Quote App </td> -->
   </tr>
   <tr>
     <td>
@@ -62,15 +56,10 @@ I love building projects, my goal is to build 150 projects from different - diff
     </td>
      <td>
         <img src="https://github.com/khurramrizvi/designer_news/blob/master/ss/andro_ss1.png"  width=270 height=480 >
-    </td> -->
-    <!-- <td>
-        <img src="https://github.com/khurramrizvi/flutter_pro_apps/blob/master/crypto_app/ss/crypto1.png" height="250" >
-    </td>
-    <td>
-        <img src="https://github.com/khurramrizvi/flutter_quote_app/blob/master/ss/ss.jpg" height="250" >
-    </td> --> -->
-  </tr>
+    </td> 
+  </tr> -->
   </table>
+    <!-- <td>📰<a href='https://github.com/alokjha2/ecommerceapp'> Ecommerce App </td>
   
  ### 
  <table>
