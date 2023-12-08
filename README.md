@@ -1,6 +1,5 @@
-# Alok Jha<img src=https://github.githubassets.com/images/icons/emoji/octocat.png height=30px>
-I'm Alok Jha from India, and I love developing Apps on Mobile and Web Platform.
-I really enjoy learning languages and frameworks for fast paced development, currently focusing on Flutter for Developing Beautiful and Robust Apps for Multiple Platforms. I am really amused while Implementing Amazing Apps.
+# Peckish Human <img src=https://github.githubassets.com/images/icons/emoji/octocat.png height=30px>
+I love building projects, my goal is to build 150 projects from different - different fields ranging from app development, to AI, to blockchain to book, to robots 
 
 ## Programming Language & framework
 
@@ -12,11 +11,12 @@ I really enjoy learning languages and frameworks for fast paced development, cur
 * OpenCv
 * KivyMd
 
-## Tools
+## Tools $ Hosting Platform
 * Git
 * Vs Code
 * Netlify
 * Heroku
+* Play Console
 
     
 ## UI
@@ -25,36 +25,27 @@ I really enjoy learning languages and frameworks for fast paced development, cur
     <td>📃<a href='https://github.com/alokjha2/profileUI'> Profile UI</td>
     <td>📚<a href='https://github.com/alokjha2/blogappui'> Blog App </td>
     <td>📰<a href='https://github.com/alokjha2/chatAppUi'> Chat App </td>
-    <!-- <td>📰<a href='https://github.com/alokjha2/chatAppUi'> Ecommerce App </td>
-    <td>📰<a href='https://github.com/alokjha2/chatAppUi'> Plant MarketPlace </td>
-    <td>📰<a href='https://github.com/alokjha2/chatAppUi'> Skills App </td> -->
-    <!-- <td>💰<a href='https://github.com/khurramrizvi/flutter_pro_apps/tree/master/crypto_app'> Crypto App </td>
-    <td>💭<a href='https://github.com/khurramrizvi/flutter_quote_app'> Quote App </td> -->
+
   </tr>
   <tr>
     <td>
         <img src="https://github.com/alokjha2/profileUI/blob/main/screenshots/screen_2.png" width=270 height=480>>
     </td>
    <td>
-        <img src="https://github.com/khurramrizvi/BlogApp/blob/master/ss/Screenshot_blog_app_20190828-005417.png" width=270 height=480>>
+        <img src="https://github.com/alokjha2/blogappui/blob/main/screenshots/screen_5.png" width=270 height=480>>
     </td>
-    <!-- <td>
-        <img src="https://github.com/khurramrizvi/designer_news/blob/master/ss/andro_ss1.png" height="250" >
+   <td>
+        <img src="https://github.com/alokjha2/chatAppUi/blob/main/screenshots/screen_3.png" width=270 height=480>>
     </td>
-    <td>
-        <img src="https://github.com/khurramrizvi/flutter_pro_apps/blob/master/crypto_app/ss/crypto1.png" height="250" >
-    </td>
-    <td>
-        <img src="https://github.com/khurramrizvi/flutter_quote_app/blob/master/ss/ss.jpg" height="250" >
-    </td>
-  </tr> -->
+    
+  </tr> 
+  <tr>
 
-
-  </table>
+## Some more UIs
 <table>
   <tr>
-    <td>📃<a href='https://github.com/alokjha2/profileUI'> Profile UI</td>
-    <td>📚<a href='https://github.com/alokjha2/blogappui'> Blog App </td>
+    <td>📃<a href='https://github.com/alokjha2/skillsApp'> Skills App</td>
+    <td>📚<a href='https://github.com/alokjha2/PlantUi'> Plant App </td>
     <td>📰<a href='https://github.com/alokjha2/chatAppUi'> Chat App </td>
     <!-- <td>📰<a href='https://github.com/alokjha2/chatAppUi'> Ecommerce App </td>
     <td>📰<a href='https://github.com/alokjha2/chatAppUi'> Plant MarketPlace </td>
@@ -64,20 +55,20 @@ I really enjoy learning languages and frameworks for fast paced development, cur
   </tr>
   <tr>
     <td>
-        <img src="https://github.com/alokjha2/profileUI/blob/main/screenshots/screen_2.png" height="250">
+        <img src="https://github.com/alokjha2/skillsApp/blob/main/screenshots/screen_3.png"  width=270 height=480>
     </td>
    <td>
-        <img src="https://github.com/khurramrizvi/BlogApp/blob/master/ss/Screenshot_blog_app_20190828-005417.png" height="250" >
+        <img src="https://github.com/alokjha2/PlantUi/blob/main/screenshots/screen_3.png"  width=270 height=480>
     </td>
+     <td>
+        <img src="https://github.com/khurramrizvi/designer_news/blob/master/ss/andro_ss1.png"  width=270 height=480 >
+    </td> -->
     <!-- <td>
-        <img src="https://github.com/khurramrizvi/designer_news/blob/master/ss/andro_ss1.png" height="250" >
-    </td>
-    <td>
         <img src="https://github.com/khurramrizvi/flutter_pro_apps/blob/master/crypto_app/ss/crypto1.png" height="250" >
     </td>
     <td>
         <img src="https://github.com/khurramrizvi/flutter_quote_app/blob/master/ss/ss.jpg" height="250" >
-    </td> -->
+    </td> --> -->
   </tr>
   </table>
   
