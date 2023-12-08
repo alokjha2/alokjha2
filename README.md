@@ -2,20 +2,25 @@
 I'm Alok Jha from India, and I love developing Apps on Mobile and Web Platform.
 I really enjoy learning languages and frameworks for fast paced development, currently focusing on Flutter for Developing Beautiful and Robust Apps for Multiple Platforms. I am really amused while Implementing Amazing Apps.
 
-## Skills and Experience
+## Programming Language & framework
 
-* Firebase
-* 📱 Flutter
-* 🎯 Dart
+* Flutter
+* Dart
+* Python
+
+## Tools
+* Git
+* Vs Code
+
     
-## Some of my Recent Work
+## UI
 <table>
   <tr>
-    <td>📃<a href='https://github.com/khurramrizvi/FlutterCalenderUI'> Calender App </td>
-    <td>📚<a href='https://github.com/khurramrizvi/BlogApp'> Blog App </td>
-    <td>📰<a href='https://github.com/khurramrizvi/designer_news'> News App </td>
-    <td>💰<a href='https://github.com/khurramrizvi/flutter_pro_apps/tree/master/crypto_app'> Crypto App </td>
-    <td>💭<a href='https://github.com/khurramrizvi/flutter_quote_app'> Quote App </td>
+    <td>📃<a href='https://github.com/alokjha2/profileUI'> Profile UI</td>
+    <td>📚<a href='https://github.com/alokjha2/blogappui'> Blog App </td>
+    <td>📰<a href='https://github.com/alokjha2/chatAppUi'> Chat App </td>
+    <!-- <td>💰<a href='https://github.com/khurramrizvi/flutter_pro_apps/tree/master/crypto_app'> Crypto App </td>
+    <td>💭<a href='https://github.com/khurramrizvi/flutter_quote_app'> Quote App </td> -->
   </tr>
   <tr>
     <td>
@@ -27,12 +32,12 @@ I really enjoy learning languages and frameworks for fast paced development, cur
     <td>
         <img src="https://github.com/khurramrizvi/designer_news/blob/master/ss/andro_ss1.png" height="250" >
     </td>
-    <td>
+    <!-- <td>
         <img src="https://github.com/khurramrizvi/flutter_pro_apps/blob/master/crypto_app/ss/crypto1.png" height="250" >
     </td>
     <td>
         <img src="https://github.com/khurramrizvi/flutter_quote_app/blob/master/ss/ss.jpg" height="250" >
-    </td>
+    </td> -->
   </tr>
   </table>
   
