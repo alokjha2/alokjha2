@@ -33,10 +33,10 @@ I really enjoy learning languages and frameworks for fast paced development, cur
   </tr>
   <tr>
     <td>
-        <img src="https://github.com/alokjha2/profileUI/blob/main/screenshots/screen_2.png" height="250">
+        <img src="https://github.com/alokjha2/profileUI/blob/main/screenshots/screen_2.png" width=270 height=480>>
     </td>
    <td>
-        <img src="https://github.com/khurramrizvi/BlogApp/blob/master/ss/Screenshot_blog_app_20190828-005417.png" height="250" >
+        <img src="https://github.com/khurramrizvi/BlogApp/blob/master/ss/Screenshot_blog_app_20190828-005417.png" width=270 height=480>>
     </td>
     <!-- <td>
         <img src="https://github.com/khurramrizvi/designer_news/blob/master/ss/andro_ss1.png" height="250" >
