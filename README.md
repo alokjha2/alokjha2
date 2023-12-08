@@ -41,7 +41,7 @@ I love building projects, my goal is to build 150 projects from different - diff
   </tr> 
   <tr>
 
-## Some more UIs
+<!-- ## Some more UIs -->
 <table>
   <tr>
     <td>📃<a href='https://github.com/alokjha2/skillsApp'> Skills App</td>
@@ -72,6 +72,7 @@ I love building projects, my goal is to build 150 projects from different - diff
   </tr>
   </table>
   
+ ### 
  <table>
   <tr> 
     <td>🕸️<a href='https://github.com/khurramrizvi/flutterfolio'> About me with Flutter Web</td>
