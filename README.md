@@ -137,6 +137,14 @@ I love building projects, my goal is to build 150 projects from different - diff
     </td>
   </tr>
  </table>
+
+ ## 📊 GitHub Stats:
+<img src="https://github-readme-stats-abhishekdoshi26.vercel.app/api?username=jakansha2001&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" height=150px>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakansha2001&theme=highcontrast&hide_border=false" height=150px><br/><br>
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jakansha2001&theme=radical&no-frame=false&no-bg=false&margin-w=4)<br><br>
+
  
 ## <a href='https://github.com/alokjha2?tab=repositories'>and many more....
  
