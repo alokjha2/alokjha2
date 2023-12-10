@@ -37,25 +37,6 @@ I love building projects, my goal is to build 150 projects from different - diff
 * Heroku
 * Play Console
 
-## Live Projects 
-
-<h3>🌱 Android Apps</h3>
-
-- **BetterYou :** Restructuring app, wrote this app 1 year ago. [Check it out](https://play.google.com/store/apps/details?id=com.betteryou.app)
-
-<!-- - #### [Better You](https://play.google.com/store/apps/details?id=com.betteryou.app) -->
-
-- **Shia Books :** BetterYou got acquired. [Check it out](https://play.google.com/store/apps/details?id=com.betteryou.app)
-
-<!-- - #### [Shia Books](https://play.google.com/store/apps/details?id=com.gigls.audiobook) -->
-
-- #### [Chirkut](https://play.google.com/store/apps/details?id=com.social.chillx)
-
-- #### [Ecommerce](https://play.google.com/store/apps/details?id=com.ecommercemart.app)
-
-- #### [Incompleted Admin Panel, credentials - admin, 989730](https://anilautomobileadmin.netlify.app/#/)
-
-
 ## UI
 <table>
   <tr>
@@ -111,6 +92,19 @@ I love building projects, my goal is to build 150 projects from different - diff
   </tr> 
   </table>
 
+## Live Projects 
+
+<h3>🌱 Android Apps</h3>
+
+- **BetterYou :** Restructuring app, wrote this app 1 year ago. [Check it out](https://play.google.com/store/apps/details?id=com.betteryou.app)
+
+- **Shia Books :** BetterYou got acquired. [Check it out](https://play.google.com/store/apps/details?id=com.betteryou.app)
+
+- #### [Chirkut](https://play.google.com/store/apps/details?id=com.social.chillx)
+
+- #### [Ecommerce](https://play.google.com/store/apps/details?id=com.ecommercemart.app)
+
+- #### [Incompleted Admin Panel, credentials - admin, 989730](https://anilautomobileadmin.netlify.app/#/)
 
  ### Admin Panel
  <table>
