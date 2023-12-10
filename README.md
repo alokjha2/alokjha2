@@ -45,7 +45,7 @@ I love building projects, my goal is to build 150 projects from different - diff
 
 <!-- - #### [Better You](https://play.google.com/store/apps/details?id=com.betteryou.app) -->
 
-- **Shia Books :** BetterYou got acquired[Check it out](https://play.google.com/store/apps/details?id=com.betteryou.app)
+- **Shia Books :** BetterYou got acquired. [Check it out](https://play.google.com/store/apps/details?id=com.betteryou.app)
 
 <!-- - #### [Shia Books](https://play.google.com/store/apps/details?id=com.gigls.audiobook) -->
 
