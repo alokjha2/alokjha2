@@ -104,6 +104,8 @@ I love building projects, my goal is to build 150 projects from different - diff
 
 - #### [Ecommerce](https://play.google.com/store/apps/details?id=com.ecommercemart.app)
 
+- **Demo package :** Just published this demo package. [Demo Package](https://pub.dev/packages/map_package_for_client/example)
+
 - #### [Incompleted Admin Panel, credentials - admin, 989730](https://anilautomobileadmin.netlify.app/#/)
 
  ### Admin Panel
