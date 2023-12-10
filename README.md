@@ -1,6 +1,16 @@
 # Peckish Human <img src=https://github.githubassets.com/images/icons/emoji/octocat.png height=30px>
 I love building projects, my goal is to build 150 projects from different - different fields ranging from app development, to AI, to blockchain to book, to robots 
 
+
+# 💫 About Me:
+- 😄 Pronouns: He/Him
+- 💻 Flutter Developer
+- 📖 Learning AI, blockchain
+- 🤝 My end goal is to build useful products, someday I will create something useful
+- 🤠 Love building projects
+- ⚡ Fun fact: I like to learn! 
+- 🐕 PS : I don't spend much time in creating content, posting things on social media, because this way I am not getting anything to learn😉
+
 ## Programming Language & framework
 
 * Dart
@@ -11,7 +21,7 @@ I love building projects, my goal is to build 150 projects from different - diff
 * OpenCv
 * KivyMd
 
-## Tools $ Hosting Platform
+## Tools & Hosting Platform
 * Git
 * Vs Code
 * Netlify
@@ -27,6 +37,10 @@ I love building projects, my goal is to build 150 projects from different - diff
 - #### [Shia Books](https://play.google.com/store/apps/details?id=com.gigls.audiobook)
 
 - #### [Chirkut](https://play.google.com/store/apps/details?id=com.social.chillx)
+
+- #### [Ecommerce](https://play.google.com/store/apps/details?id=com.ecommercemart.app)
+
+- #### [Incompleted Admin Panel, credentials - admin, 989730](https://anilautomobileadmin.netlify.app/#/)
 
 
 ## UI
