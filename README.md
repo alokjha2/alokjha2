@@ -41,6 +41,8 @@ I love building projects, my goal is to build 150 projects from different - diff
 
 <h3>🌱 Android Apps</h3>
 
+- **Better You App:** Restructuring app, wrote this app 1 year ago. [Check it out on Google Play](https://play.google.com/store/apps/details?id=com.betteryou.app)
+
 - #### [Better You](https://play.google.com/store/apps/details?id=com.betteryou.app)
 
 - #### [Shia Books](https://play.google.com/store/apps/details?id=com.gigls.audiobook)
