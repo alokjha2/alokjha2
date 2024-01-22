@@ -9,6 +9,7 @@ I love building projects, my goal is to build 150 projects from different - diff
 - 🤝 My end goal is to build useful products, someday I will create something useful
 - 🤠 Love building projects
 - ⚡ Fun fact: I like to learn! 
+- 🤠 I write blogs
 - 🐕 PS : I don't spend much time on content creation or social media posting since it doesn't contribute to my learning.😉
 
 
