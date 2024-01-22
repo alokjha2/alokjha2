@@ -98,11 +98,11 @@ I love building projects, my goal is to build 150 projects from different - diff
 
 - **BetterYou :** Restructuring app, wrote this app 1 year ago. [Check it out](https://play.google.com/store/apps/details?id=com.betteryou.app)
 
-- **Shia Books :** BetterYou got acquired. [Check it out](https://play.google.com/store/apps/details?id=com.betteryou.app)
+- **Shia Books :** BetterYou got acquired. [Check it out](https://play.google.com/store/apps/details?id=com.gigls.audiobook)
 
-- #### [Chirkut](https://play.google.com/store/apps/details?id=com.social.chillx)
+- #### [Chirkut]: **Abandoned(https://play.google.com/store/apps/details?id=com.social.chillx) 
 
-- #### [Ecommerce](https://play.google.com/store/apps/details?id=com.ecommercemart.app)
+- #### [Ecommerce]: **Abandoned(https://play.google.com/store/apps/details?id=com.ecommercemart.app)
 
 <h3>🌱 Admin Panel </h3>
 
