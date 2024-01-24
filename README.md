@@ -99,6 +99,8 @@ I love building projects, my goal is to build 150 projects from different - diff
 
 - **BetterYou :** Restructuring app, wrote this app 1 year ago. [Check it out](https://play.google.com/store/apps/details?id=com.betteryou.app)
 
+- **BetterYou website :**  [Check it out](https://betteryousite.netlify.app/)
+
 - **Shia Books :** BetterYou got acquired. [Check it out](https://play.google.com/store/apps/details?id=com.gigls.audiobook)
 
 - #### [Chirkut]: **Abandoned(https://play.google.com/store/apps/details?id=com.social.chillx) 
