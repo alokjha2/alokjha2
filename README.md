@@ -83,9 +83,9 @@ I love building projects, my goal is to build 150 projects from different - diff
 <table>
   <tr>
     <td>📃<a href='https://github.com/alokjha2/ecommerceapp'> Ecommerce App</td>
-    <td>📃<a href='https://github.com/alokjha2/chillx'> Chillx or chirkut</td>
   </tr>
-
+  </tr>
+    <td>📃<a href='https://github.com/alokjha2/chillx'> Chillx or chirkut</td>
   <tr>
     <td>
         <img src="https://github.com/alokjha2/ecommerceapp/blob/main/screenshots/screen_1.png"  width=270 height=480>
