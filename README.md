@@ -89,7 +89,7 @@ I love building projects, my goal is to build 150 projects from different - diff
   <tr>
     <td>
         <img src="https://github.com/alokjha2/ecommerceapp/blob/main/screenshots/screen_1.png"  width=270 height=480>
-    <td>
+    <!-- <td> -->
     <td>
         <img src="https://github.com/alokjha2/chillx/blob/main/screenshots/2.png"  width=270 height=480>
     </td>
