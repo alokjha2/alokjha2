@@ -105,6 +105,8 @@ I love building projects, my goal is to build 150 projects from different - diff
 
 - **Peckish Human (personal website) :**  [Check it out](https://peckishhuman.netlify.app/)
 
+- **AI website :**  [Check it out](https://ainews.netlify.app/)
+
 - **BetterYou :** Restructuring app, wrote this app 1 year ago. [Check it out](https://play.google.com/store/apps/details?id=com.betteryou.app)
 
 - **BetterYou website :**  [Check it out](https://betteryousite.netlify.app/)

@@ -8,3 +8,8 @@ git commit -m "updated"
 git branch -M main
 git remote add origin https://github.com/alokjha2/alokjha2.git
 git push -u origin main
+git push -u origin main
+
+
+git pull origin main
+git push origin main
