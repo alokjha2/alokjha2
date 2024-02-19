@@ -111,7 +111,7 @@ I love building projects, my goal is to build 150 projects from different - diff
 
 - **BetterYou website :**  [Check it out](https://betteryousite.netlify.app/)
 
-- **Shia Books :** BetterYou got acquired. [Check it out](https://play.google.com/store/apps/details?id=com.gigls.audiobook)
+- **Shia Books :** BetterYou got acquired. [View it in mobile](https://play.google.com/store/apps/details?id=com.gigls.audiobook)
 
 - #### [Chirkut]: **Abandoned(https://play.google.com/store/apps/details?id=com.social.chillx) 
 
@@ -156,6 +156,9 @@ I love building projects, my goal is to build 150 projects from different - diff
     </td>
   </tr>
  </table>
+
+-  ⚡GitHub Stats</summary>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=alokjha2-tech&theme=prussian)](https://git.io/streak-stats)
 
 ## <a href='https://github.com/alokjha2?tab=repositories'>and many more....
  
