@@ -158,7 +158,7 @@ I love building projects, my goal is to build 150 projects from different - diff
  </table>
 
 -  ⚡GitHub Stats</summary>
-[![GitHub Streak](https://streak-stats.demolab.com/alokjha2=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=alokjha2&mode=daily)](https://git.io/streak-stats)
 
 ## <a href='https://github.com/alokjha2?tab=repositories'>and many more....
  
