@@ -85,6 +85,7 @@ I love building projects, my goal is to build 150 projects from different - diff
   <tr>
     <td>📃<a href='https://github.com/alokjha2/ecommerceapp'> Ecommerce App</td>
     <td>📃<a href='https://github.com/alokjha2/chillx'> Chillx or chirkut</td>
+    <td>📃<a href=''> App got 800 users</td>
   <tr>
 
   <tr>
@@ -93,6 +94,9 @@ I love building projects, my goal is to build 150 projects from different - diff
     <!-- <td> -->
     <td>
         <img src="https://github.com/alokjha2/chillx/blob/main/screenshots/2.png"  width=270 height=480>
+    </td>
+    <td>
+        <img src="https://github.com/alokjha2/betteryou/blob/main/screenshots/photo_2024-02-23_16-46-05.jpg"  width=270 height=480>
     </td>
     
   </tr> 
