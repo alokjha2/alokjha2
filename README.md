@@ -45,7 +45,7 @@ I love building projects, my goal is to build 150 projects from different - diff
     <td>📃<a href=''> App got 800 users</td>
     <td>📃<a href='https://github.com/alokjha2/profileUI'> Profile UI</td>
     <td>📚<a href='https://github.com/alokjha2/blogappui'> Blog App </td>
-    <td>📰<a href='https://github.com/alokjha2/chatAppUi'> Chat App </td>
+    
 
   </tr>
   <tr>
@@ -58,10 +58,7 @@ I love building projects, my goal is to build 150 projects from different - diff
    <td>
         <img src="https://github.com/alokjha2/blogappui/blob/main/screenshots/screen_5.png" width=270 height=480>>
     </td>
-   <td>
-        <img src="https://github.com/alokjha2/chatAppUi/blob/main/screenshots/screen_3.png" width=270 height=480>>
-    </td>
-    
+   
   </tr> 
   <tr>
 
@@ -89,6 +86,7 @@ I love building projects, my goal is to build 150 projects from different - diff
   <tr>
     <td>📃<a href='https://github.com/alokjha2/ecommerceapp'> Ecommerce App</td>
     <td>📃<a href='https://github.com/alokjha2/chillx'> Chillx or chirkut</td>
+    <td>📰<a href='https://github.com/alokjha2/chatAppUi'> Chat App </td>
     
   <tr>
 
@@ -99,6 +97,10 @@ I love building projects, my goal is to build 150 projects from different - diff
     <td>
         <img src="https://github.com/alokjha2/chillx/blob/main/screenshots/2.png"  width=270 height=480>
     </td>
+    <td>
+        <img src="https://github.com/alokjha2/chatAppUi/blob/main/screenshots/screen_3.png" width=270 height=480>>
+    </td>
+    
     
     
   </tr> 
