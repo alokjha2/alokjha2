@@ -111,6 +111,8 @@ I love building projects, my goal is to build 150 projects from different - diff
 <h3>🌱 Android Apps</h3>
 
 
+- **AI Doctor:**  [Currently working on this](https://caremate.netlify.app/)
+
 - **Peckish Human (personal website) :**  [Check it out](https://peckishhuman.netlify.app/)
 
 - **AI website :**  [Check it out](https://ainews.netlify.app/)
