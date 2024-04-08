@@ -113,6 +113,8 @@ I love building projects, my goal is to build 150 projects from different - diff
 
 - **AI Doctor:**  [Currently working on this](https://caremate.netlify.app/)
 
+- **AI Friend:**  [Currently working on this](https://haathimerasathi.netlify.app/)
+
 - **Peckish Human (personal website) :**  [Check it out](https://peckishhuman.netlify.app/)
 
 - **AI website :**  [Check it out](https://ainews.netlify.app/)
