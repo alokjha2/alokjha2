@@ -129,6 +129,8 @@ I love building projects, my goal is to build 150 projects from different - diff
 
 - #### [Ecommerce]: **Abandoned(https://play.google.com/store/apps/details?id=com.ecommercemart.app)
 
+- #### AI Astrologer (working on this) - https://medium.com/@peckishhuman/ai-in-astrology-c9b2304cb1c6
+
 <h3>🌱 Admin Panel </h3>
 
 - #### [Incompleted Admin Panel, credentials - admin, 989730](https://anilautomobileadmin.netlify.app/#/)
