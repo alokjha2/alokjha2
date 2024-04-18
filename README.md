@@ -111,7 +111,7 @@ I love building projects, my goal is to build 150 projects from different - diff
 <h3>🌱 Android Apps</h3>
 
 
-- **AI Doctor:**  [Currently working on this](https://caremate.netlify.app/)
+- **AI Doctor:**  [Currently working on this](https://caremate.netlify.app/) Idea -- https://medium.com/@peckishhuman/ai-doctor-167c1a098137
 
 - **AI Friend:**  [Currently working on this](https://haathimerasathi.netlify.app/)
 
@@ -133,7 +133,7 @@ I love building projects, my goal is to build 150 projects from different - diff
 
 - #### [Incompleted Admin Panel, credentials - admin, 989730](https://anilautomobileadmin.netlify.app/#/)
 
-- #### [Admin Panel](https://shiabooks.netlify.app/#/)
+- #### [Admin Panel, credentials - admin, 190006, dont delete anything it is in production](https://shiabooks.netlify.app/#/)
 
 <h3>🌱 Package</h3>
 
