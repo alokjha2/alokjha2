@@ -132,6 +132,10 @@ I love building projects, my goal is to build 150 projects from different - diff
 
 - #### AI Astrologer (working on this) - https://medium.com/@peckishhuman/ai-in-astrology-c9b2304cb1c6
 
+- #### Calorie Tracker (working on this) - https://medium.com/@peckishhuman/product-nymbl-d975c75d16fe
+
+- #### Built a memory card game - https://github.com/alokjha2/flutterGame 
+
 <h3>🌱 Admin Panel </h3>
 
 - #### [Incompleted Admin Panel, credentials - admin, 989730](https://anilautomobileadmin.netlify.app/#/)
