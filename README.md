@@ -134,7 +134,7 @@ I love building projects, my goal is to build 150 projects from different - diff
 
 - #### Calorie Tracker (working on this) - https://medium.com/@peckishhuman/product-nymbl-d975c75d16fe
 
-- #### Built a memory card game - https://github.com/alokjha2/flutterGame 
+- #### Built an interesting game - [https://github.com/alokjha2/flutterGame ](https://play.google.com/store/apps/details?id=com.peckishhuman.memorygame)
 
 <h3>🌱 Admin Panel </h3>
 
