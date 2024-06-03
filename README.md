@@ -30,6 +30,7 @@ I love building projects, my goal is to build 150 projects from different - diff
 * Keras
 * OpenCv
 * KivyMd
+* Nodejs
 
 ## Tools & Hosting Platform
 * Git
