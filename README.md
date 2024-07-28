@@ -30,6 +30,7 @@ I love building projects, my goal is to build 150 projects from different - diff
 * Keras
 * OpenCv
 * KivyMd
+* Nodejs
 
 ## Tools & Hosting Platform
 * Git
@@ -165,6 +166,7 @@ I love building projects, my goal is to build 150 projects from different - diff
 
 <h3>🌱 Android Apps</h3>
 
+- #### [Reshuffle]: [Liesure for old people](https://play.google.com/store/apps/details?id=com.reshuffle.app)
 
 - **AI Doctor:**  [Currently working on this](https://caremate.netlify.app/) Idea -- https://medium.com/@peckishhuman/ai-doctor-167c1a098137
 
@@ -183,6 +185,12 @@ I love building projects, my goal is to build 150 projects from different - diff
 - #### [Chirkut]: **Abandoned(https://play.google.com/store/apps/details?id=com.social.chillx) 
 
 - #### [Ecommerce]: **Abandoned(https://play.google.com/store/apps/details?id=com.ecommercemart.app)
+
+- #### AI Astrologer (working on this) - https://medium.com/@peckishhuman/ai-in-astrology-c9b2304cb1c6
+
+- #### Calorie Tracker (working on this) - https://medium.com/@peckishhuman/product-nymbl-d975c75d16fe
+
+- #### Built an interesting game - [ElderQuest](https://play.google.com/store/apps/details?id=com.peckishhuman.memorygame)
 
 <h3>🌱 Admin Panel </h3>
 
