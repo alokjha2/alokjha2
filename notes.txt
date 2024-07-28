@@ -4,7 +4,7 @@
 
 git init
 git add .
-git commit -m "haathi mera sathi attached"
+git commit -m "added transcript and project section"
 git branch -M main
 git remote add origin https://github.com/alokjha2/alokjha2.git
 git push -u origin main
