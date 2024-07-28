@@ -102,13 +102,13 @@ I love building projects, my goal is to build 150 projects from different - diff
 ### Projects
 
 <details>
- <summary>⚪️ Harmonic Motion Analyzer - Analyze harmonic motion with upto 99.89% accuracy using Computer Vision</summary>
+ <summary>⚪️ Transcript - Get accurate, contextful and meaningful transcripts </summary>
 
   <br />
   
   <img align="right" width="40%" src="https://github.com/rudrodip/rudrodip/assets/77154365/3b034a80-8fb4-4c1b-9671-bbd13850e3c8" />
   
-  [Transcript](https://github.com/Sonicrypt) is a tool that can be used to generate transcript from audio. Reason I built this I want to consume information in textual format, but there wasn't any tool that can give meaningful transcripts until the existence of Transcript
+  [Transcript] is a tool that can be used to generate transcript from audio. Reason I built this I want to consume information in textual format, but there wasn't any tool that can give meaningful transcripts until the existence of Transcript
   It consists of a hardware device, mobile app and a website
   
   **Tech stack**:
@@ -120,27 +120,25 @@ I love building projects, my goal is to build 150 projects from different - diff
     - Framework: Flutter
     - Api: Python
   
-  Website: [**_sonicrypt.rdsx.dev_**](https://sonicrypt.rdsx.dev)
-  Video: [**Youtube**](https://www.youtube.com/watch?v=yUm7kYV3p28)
-  Blog: [**@sonicrypt**](https://twitter.com/sonicrypt)
+  Website: [**Transcript**](https://yttranscript.netlify.app/)
+  Blog: [**@Transcript**](https://medium.com/@peckishhuman/transcript-10c4a230a36f)
 </details>
 
 <details>
-  <summary>⚪️ Harmonic Motion Analyzer - Analyze harmonic motion with upto 99.89% accuracy using Computer Vision</summary>
+  <summary>⚪️ Readera - Get article content from your pdf</summary>
 
   <br />
   
   <img align="right" width="40%" src="https://github.com/rudrodip/rudrodip/assets/77154365/8e987758-aa89-42cd-bc1c-90711bb39084" />
 
-  [Harmonic Motion Analyzer](https://github.com/rudrodip/Harmonic-Oscillator-CV) is designed to analyze the harmonic oscillation of an object using computer vision techniques
+  [Readera](https://github.com/rudrodip/Harmonic-Oscillator-CV) is designed to analyze the pdf content & then return interesting article content from it
 
   **Tech stack**:
-  - Language: Python
-  - GUI: PyQT5
-  - Libs: SciPy, OpenCV-headless, Numpy, Matplotlib, PyQT5-graph
+  - Language: Dart, python
+  - frontend: flutter
     
-  Blog: [**_blog_**](https://www.rdsx.dev/blog/harmonic-oscillation-analyzer)
-  Video: [**Youtube**](https://www.youtube.com/watch?v=dalsCsHtreU&t=1220s)
+  Website: [**_website_**](https://readera.netlify.app/)
+  Blog: [**_blog_**](https://medium.com/@peckishhuman/readera-62ef72b975dc)
 </details>
 
 
