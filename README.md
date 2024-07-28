@@ -141,6 +141,23 @@ I love building projects, my goal is to build 150 projects from different - diff
   Blog: [**_blog_**](https://medium.com/@peckishhuman/readera-62ef72b975dc)
 </details>
 
+<details>
+  <summary>⚪️ StyleTint - Enhance your photo using AI</summary>
+
+  <br />
+  
+  <img align="right" width="40%" src="https://github.com/rudrodip/rudrodip/assets/77154365/8e987758-aa89-42cd-bc1c-90711bb39084" />
+
+  [StyleTint](https://github.com/rudrodip/Harmonic-Oscillator-CV) is designed to analyze the photo and give user ability to change the colour of eyes, hairs, lips, etc
+
+  **Tech stack**:
+  - Language: Dart, python
+  - frontend: flutter
+    
+  Website: [**_website_**](https://styletint.netlify.app/)
+  Blog: [**_blog_**](https://medium.com/@peckishhuman/readera-62ef72b975dc)
+</details>
+
 
 
 <h3>🌱 Android Apps</h3>
