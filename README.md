@@ -155,7 +155,7 @@ I love building projects, my goal is to build 150 projects from different - diff
   - frontend: flutter
     
   Website: [**_website_**](https://styletint.netlify.app/)
-  Blog: [**_blog_**](https://medium.com/@peckishhuman/readera-62ef72b975dc)
+  Blog: [**_blog_**](https://medium.com/@peckishhuman/styletint-5005f4cabee5)
 </details>
 
 
