@@ -108,7 +108,7 @@ I love building projects, my goal is to build 150 projects from different - diff
   
   <img align="right" width="40%" src="https://github.com/rudrodip/rudrodip/assets/77154365/3b034a80-8fb4-4c1b-9671-bbd13850e3c8" />
   
-  [Transcript] is a tool that can be used to generate transcript from audio. Reason I built this I want to consume information in textual format, but there wasn't any tool that can give meaningful transcripts until the existence of Transcript
+  Transcribot is a tool that can be used to generate transcript from audio. Reason I built this I want to consume information in textual format, but there wasn't any tool that can give meaningful transcripts until the existence of Transcript
   It consists of a hardware device, mobile app and a website
   
   **Tech stack**:
@@ -120,7 +120,7 @@ I love building projects, my goal is to build 150 projects from different - diff
     - Framework: Flutter
     - Api: Python
   
-  Website: [**Transcript**](https://yttranscript.netlify.app/)
+  Website: [**Transcribot**](https://transcribot.netlify.app/)
   Blog: [**@Transcript**](https://medium.com/@peckishhuman/transcript-10c4a230a36f)
 </details>
 
