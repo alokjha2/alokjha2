@@ -21,24 +21,14 @@ I love building projects, my goal is to build 150 projects from different - diff
 ## 👩‍💻 Tech Stack & tools:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) <br><br>
 
-## Programming Language & framework
 
-* Dart
-* Python
-* Flutter
-* TenserFlow
-* Keras
-* OpenCv
-* KivyMd
-* Nodejs
+### Technologies I use day to day
 
-## Tools & Hosting Platform
-* Git
-* Vs Code
-* Netlify
-* Heroku
-* Play Console
-
+- Languages: Dart, Python, Go, Rust
+- Frontend technology: Flutter
+- Backend technology: Nodejs, python
+- Mobile: Flutter
+- Database: Firebase, Mongodb
 
 ## UI
 <table>
@@ -112,9 +102,7 @@ I love building projects, my goal is to build 150 projects from different - diff
 ### Projects
 
 <details>
-  <summary>
-    
-  </summary>
+ <summary>⚪️ Harmonic Motion Analyzer - Analyze harmonic motion with upto 99.89% accuracy using Computer Vision</summary>
 
   <br />
   
@@ -155,14 +143,7 @@ I love building projects, my goal is to build 150 projects from different - diff
   Video: [**Youtube**](https://www.youtube.com/watch?v=dalsCsHtreU&t=1220s)
 </details>
 
-### Technologies I use day to day
 
-- Languages: Typescript, Python, C++, Go, Rust
-- Frontend technology: Next.Js, React, Tailwindcss, Framer Motion
-- Backend technology: Hono, FastAPI, Fiber, Mux, ws, socket.io, WebRTC
-- Web3: @solana/web3.js, @solana/spl-token, metaplex sdk, solana wallet provider, solana mobile wallet adapter, anchor
-- Mobile: React Native, Flutter
-- Microcontrollers: Arduino UNO, Arduino Nano, Arduino Mega, ESP8266, ESP32 series and more (C++, C & Rust)
 
 <h3>🌱 Android Apps</h3>
 
