@@ -121,7 +121,7 @@ I love building projects, my goal is to build 150 projects from different - diff
     - Api: Python
   
   Website: [**Transcribot**](https://transcribot.netlify.app/)
-  Blog: [**@Transcript**](https://medium.com/@peckishhuman/transcript-10c4a230a36f)
+  Blog: [**@Transcript**](https://medium.com/@peckishhuman/transcribot-bc8b578d5117)
 </details>
 
 <details>
