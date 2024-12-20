@@ -5,7 +5,7 @@ I love building projects, my goal is to build 150 projects from different - diff
 # 💫 About Me:
 - 😄 Pronouns: He/Him
 - 💻 Full Stack Developer
-- 📖 Learning AI, blockchain
+- 📖 Learning AI
 - 🤝 My end goal is to build useful products, someday I will create something useful
 - 🤠 Love building projects
 - ⚡ Fun fact: I like to learn! 
