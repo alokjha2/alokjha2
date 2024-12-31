@@ -192,7 +192,6 @@ I love building projects, my goal is to build 150 projects from different - diff
 
 - #### [Incompleted Admin Panel, credentials - admin, 989730](https://anilautomobileadmin.netlify.app/#/)
 
-- #### [Admin Panel, credentials - admin, 190006, dont delete anything it is in production](https://shiabooks.netlify.app/#/)
 
 <h3>🌱 Package</h3>
 
