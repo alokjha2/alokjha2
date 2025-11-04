@@ -26,6 +26,9 @@ Hello! I'm Peckish Human, a software developer with 2+ years building software a
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=alokjha2)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alokjha2&mode=weekly)](https://git.io/streak-stats)
+
+
 
 ![](https://komarev.com/ghpvc/?username=alokjha2)
 
