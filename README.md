@@ -2,7 +2,7 @@
 
 ## Software developer | Building Intelligent Systems
 
-Hello! I'm Peckish Human, a software engineer with 2+ years building software applications, services, and distributed systems at the intersection of consumer, technology, and AI.
+Hello! I'm Peckish Human, a software developer with 2+ years building software applications, services, and distributed systems at the intersection of consumer, technology, and AI.
 
 ### About Me
 
@@ -11,13 +11,13 @@ Hello! I'm Peckish Human, a software engineer with 2+ years building software ap
 
 ### Professional Experience
 
-- Founding Software Developer, Fullhouse (ex Reshuffle) (2024-present)
+- Founding Software Developer, Fullhouse (ex Reshuffle) (May 2024-present)
 - Freelance Software Developer (2022-2024)
 
 ### Skills
 
 - Software Architecture and Design
-- Languages: Dart, Python, Go, Rust
+- Languages: Dart, Python, Rust, Javascript
 - Frontend technology: Flutter
 - Backend technology: Nodejs, python
 - Mobile: Flutter
@@ -26,6 +26,6 @@ Hello! I'm Peckish Human, a software engineer with 2+ years building software ap
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=alokjha2&mode=weekly)](https://git.io/streak-stats)
 
-## <a href='https://github.com/alokjha2?tab=repositories'>and many more....
+
 ![](https://komarev.com/ghpvc/?username=alokjha2)
 
