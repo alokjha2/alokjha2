@@ -24,10 +24,10 @@ Hello! I'm Peckish Human, a software developer with 2+ years building software a
 - Database: Firebase, Mongodb
 - Other tools - Git, Postman, Github actions
 
--  GitHub's Weekly Stats</summary>
+### GitHub's Weekly Stats</summary>
 [![GitHub Streak](https://streak-stats.demolab.com?user=alokjha2&mode=weekly)](https://git.io/streak-stats)
 
--  GitHub's Daily Stats</summary>
+### GitHub's Daily Stats</summary>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=alokjha2)](https://git.io/streak-stats)
 
 
