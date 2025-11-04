@@ -22,5 +22,10 @@ Hello! I'm Peckish Human, a software engineer with 2+ years building software ap
 - Backend technology: Nodejs, python
 - Mobile: Flutter
 - Database: Firebase, Mongodb
-- Other tools - Git, Postman, Github actions, 
+- Other tools - Git, Postman, Github actions
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=alokjha2&mode=weekly)](https://git.io/streak-stats)
+
+## <a href='https://github.com/alokjha2?tab=repositories'>and many more....
+![](https://komarev.com/ghpvc/?username=alokjha2)
 
