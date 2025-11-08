@@ -1,0 +1,25 @@
+# Initialize repository
+git init
+
+# Create README file
+"Demo repo with backdated commit" | Out-File README.md -Encoding utf8
+
+# Stage file
+git add README.md
+
+# Set author and committer date to March 10, 2005
+$env:GIT_AUTHOR_DATE = "2005-03-10T12:00:00Z"
+$env:GIT_COMMITTER_DATE = "2005-03-10T12:00:00Z"
+
+# Make the commit
+git commit -m "First commit (March 2005)"
+
+
+# Rename branch to main
+git branch -M main
+
+# Add your GitHub remote
+git remote add origin https://github.com/alokjha2/add_old_timeline_in_github.git
+
+# Push to GitHub
+git push -u origin main
