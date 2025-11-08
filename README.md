@@ -18,7 +18,7 @@ Hello! I'm Peckish Human, a software developer with 2+ years building software a
 
 - Software Architecture and Design
 - Languages: Dart, Python, Rust, Javascript
-- Frontend technology: Flutter
+- Frontend technology: Flutter, NextJs
 - Backend technology: Nodejs, python
 - Mobile: Flutter
 - Database: Firebase, Mongodb
